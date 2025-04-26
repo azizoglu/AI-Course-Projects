@@ -7,14 +7,16 @@ You will fine-tune powerful pre-trained CNNs, classify AI-generated images, boos
 ---
 
 ## 📂 Project Structure
-.
-├── real-vs-fake/                    # put your train/val/test folders in here
-├── image_classification.py  # training & evaluation pipeline 
-├── grad_cam_inference.py    # Grad-CAM heat-map generator
-├── predict_single_image.py  # test model with single image
-├── requirements.txt         # pip install -r requirements.txt
-└── README.md                # ← you are here
 
+```text
+.
+├── real-vs-fake/             # Training, validation, and test image folders (organized by class)
+├── image_classification.py   # Training and evaluation pipeline for real vs fake classification
+├── grad_cam_inference.py     # Grad-CAM heatmap generator for model interpretability
+├── predict_single_image.py   # Single image prediction script for quick testing
+├── requirements.txt          # Dependency list (install with pip)
+└── README.md                 # Project documentation (you're reading it!)
+```
 ---
 
 ## 📚 Contents
