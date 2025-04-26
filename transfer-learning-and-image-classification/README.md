@@ -1,4 +1,4 @@
-# 🧠 Transfer Learning, Real–Fake Image Detection & Grad‑CAM
+# 🧠 Transfer Learning, Real–Fake Image Detection, Grad‑CAM
 
 Welcome! In this repository, you'll find a practical introduction to advanced deep learning concepts using **PyTorch**, focused on real-world tasks such as **Transfer Learning**, **Real vs Fake Image Classification**, **Data Augmentation**, and **Model Explainability with Grad-CAM**.  
 You will fine-tune powerful pre-trained CNNs, classify AI-generated images, boost model generalization with augmentation, and visualize model attention through heatmaps.
