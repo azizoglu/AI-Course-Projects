@@ -6,7 +6,7 @@ Welcome! In this repository, you'll find a beginner-friendly introduction to dee
 
 ## 📚 Contents
 
-### 🔍 4.1 Theoretical Overview
+### 🔍 Theoretical Overview
 
 Learn the fundamentals of deep learning:
 - What makes deep learning powerful?
@@ -17,7 +17,7 @@ Learn the fundamentals of deep learning:
 
 ---
 
-### 🧪 4.2 Hands-On Examples
+### 🧪 Hands-On Examples
 
 #### 📘 Example A: Handwritten Digit Classification (MNIST)
 **File**: `mnist_neural_net.py`  
@@ -41,7 +41,7 @@ What you'll learn:
 
 ---
 
-### 🏠 4.3 Practice Assignment
+### 🏠 Practice Assignment
 
 #### 🎯 Task: Fashion MNIST Classification
 **File**: `fashion_mnist_assignment.py`  
