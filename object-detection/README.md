@@ -60,7 +60,7 @@ Understand key evaluation metrics used in object detection:
 
 ---
 
-#### ✊ Rock–Paper–Scissors Detection (with Roboflow)
+#### Rock ✊ – Paper 📄 – Scissors ✂️ Detection (with Roboflow)
 Use a publicly available dataset from **Roboflow** to train a YOLO-based object detection model that identifies hand gestures in images.
 
 You will:
