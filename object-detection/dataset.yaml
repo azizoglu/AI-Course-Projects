@@ -1,0 +1,6 @@
+train: train_path
+val: val_path
+
+nc: 9
+
+names: ["black-baloon", "blue-baloon","brown-baloon","green-baloon","orange-baloon","pink-baloon","purple-baloon","red-baloon","yellow-baloon"]
