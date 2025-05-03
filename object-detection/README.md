@@ -26,9 +26,6 @@ You’ll explore annotation workflows, understand key object detection algorithm
 - **What is Object Detection?** — Understand the task of detecting and localizing objects within images. Explore real-life applications such as autonomous vehicles, surveillance, medical imaging, and industrial inspection.
 - **Annotation Formats & Tools** — Learn how to label data for object detection using formats like YOLO, Pascal VOC, and COCO.
 Annotation Tools introduced:
-- **Data Augmentation** — Enhance model generalization by dynamically transforming training data through diverse techniques.
-- **Grad-CAM Explainability** — Visualize and interpret the critical regions your network focuses on during predictions.
-
 - **Annotation Formats & Tools**  
   Learn how to label data for object detection using formats like **YOLO**, **Pascal VOC**, and **COCO**.  
   Annotation Tools introduced:
