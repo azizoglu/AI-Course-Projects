@@ -1,4 +1,4 @@
-🧠 Reinforcement Learning
+# 🧠 Reinforcement Learning
 
 Welcome! This repository provides a foundational and practical introduction to **Reinforcement Learning (RL)** — a type of machine learning where an agent learns to make decisions by interacting with its environment.
 
