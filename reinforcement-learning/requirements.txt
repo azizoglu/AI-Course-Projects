@@ -1,0 +1,8 @@
+torch
+torchvision
+matplotlib
+scikit-learn
+pandas
+swig
+stable-baselines3
+gymnasium[box2d]
